@@ -51,7 +51,7 @@ Make the website home page `/routes/+page.svelte` provide links to 3 modules:
 
 We'll use the "H" code numbers as the IDs/slugs:
 - `/modules/2027`
-- `/modules/2019`
+- `/modules/2029`
 - `/modules/2031`
 
 here's the code for the simple home page: `/routes/+page.svelte`
@@ -81,7 +81,7 @@ Learn more about year 2 modules
         <a href="/modules/2027">H2037 Front End Dev</a>
     </li>
     <li>
-        <a href="/modules/2019">H2019 Database Fundamentals</a>
+        <a href="/modules/2029">H2029 Database Fundamentals</a>
     </li>
     <li>
         <a href="/modules/2031">H2031 Object-Oriented Programming</a>
